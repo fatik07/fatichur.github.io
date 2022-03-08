@@ -1,3 +1,4 @@
 baseURL = 'https://fatik07.github.io/fatichur.github.io'
 languageCode = 'en-us'
 title = 'Website Hugo First'
+theme = 'ananke1'
