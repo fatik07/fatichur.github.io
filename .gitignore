@@ -1,9 +1,0 @@
-.github/*
-archetypes/*
-content/*
-data/*
-layouts/*
-resources/*
-themes/*
-.hugo_build.lock
-config.toml
