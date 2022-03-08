@@ -1,4 +1,3 @@
 baseURL = 'http://fatichur.github.io'
 languageCode = 'en-us'
 title = 'Website Hugo First'
-theme = "ananke"
